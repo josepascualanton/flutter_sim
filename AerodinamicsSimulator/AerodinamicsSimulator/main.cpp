@@ -64,7 +64,7 @@ int main() {
     }
     
 
-    smgr->addCameraSceneNode(0, vector3df(- 80, 50, -90), vector3df(0, 5, 0));
+    smgr->addCameraSceneNode(0, vector3df(- 80, 50, 90), vector3df(0, 5, 0));
 
     /////////////////////////////////////
     // Initial conditions for simulator
